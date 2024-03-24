@@ -1,50 +1,50 @@
 [{
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "最受欢迎的Porn·社区，需要翻墙",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
+		"name": "草榴社区",
+		"href": "https://t66y.com/",
+		"desc": "中文最大成人社区，1024论坛 需要翻墙",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
+		"name": "PornHub",
+		"href": "https://www.pornhub.com/",
+		"desc": "全球最大成人网站，免费，需要翻墙",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
+		"name": "XVideos",
+		"href": "https://www.xvideos.com/",
 		"desc": "绿软、汉化软件分享",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
+		"name": "xHamster",
+		"href": "https://zh.xhamster.com/",
 		"desc": "软件分享",
 		"logo": "static/icons/dayanzai.me.ico"
 	}, {
-		"name": "殁漂遥",
-		"href": "https://www.mpyit.com/",
+		"name": "PornMD",
+		"href": "https://www.pornmd.com/",
 		"desc": "分类齐全，不定时修改下载地址获取方式",
 		"logo": "static/icons/mpyit.com.ico"
 	}, {
-		"name": "胡萝卜周",
-		"href": "http://www.carrotchou.blog/",
+		"name": "RedTube",
+		"href": "https://www.redtube.com/",
 		"desc": "又一个软件分享'领跑者'",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "软件缘",
-		"href": "https://www.appcgn.com/",
+		"name": "ThisAV",
+		"href": "https://thisav.com/",
 		"desc": "绿化、汉化软件",
 		"logo": "static/icons/appcgn.com.ico"
 	}, {
-		"name": "看雪学院",
-		"href": "https://www.kanxue.com/",
+		"name": "YouPorn",
+		"href": "https://www.youporn.com/",
 		"desc": "加密与解密，渗透与反渗透",
 		"logo": "static/icons/kanxue.com.ico"
 	}, {
-		"name": "少数派",
-		"href": "https://sspai.com/",
+		"name": "麻豆传媒",
+		"href": "https://ww2.chinababe.net/site/model-media/",
 		"desc": "生产力工具推荐平台（含会员付费阅读制）",
 		"logo": "static/icons/sspai.com.ico"
 	}, {
